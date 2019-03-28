@@ -34,7 +34,7 @@ Desktop client
 > [!Tip]
 > Watch the following session to learn about the benefits of the Windows Desktop Client, how to plan for it, and how to deploy it: [Teams Windows Desktop Client](https://aka.ms/teams-clients)
 
-The Microsoft Teams desktop client is a standalone application and currently not part of Office 365 ProPlus. Teams is available for both Windows (7+), both 32-bit and 64-bit versions, and macOS (10.10+). On Windows, Teams requires .NET Framework 4.5 or later; the Teams installer will offer to install it for you if you don't have it. 
+The Microsoft Teams desktop client is a standalone application and is also available on Office 365 ProPlus. Teams is available for both Windows (7+), both 32-bit and 64-bit versions, and macOS (10.10+). On Windows, Teams requires .NET Framework 4.5 or later; the Teams installer will offer to install it for you if you don't have it. 
 
 The desktop clients provide real-time communications support (audio, video, and content sharing) for team meetings, group calling, and private one-on-one calls.
 
@@ -97,7 +97,7 @@ IT admins can use managed deployment of Teams to distribute the installation fil
 Web client 
 ----------
 
-The web client ([https://teams.microsoft.com](https://go.microsoft.com/fwlink/?linkid=855753)) is a full, functional client that can be used from a variety of browsers. The web client supports Calling and Meetings by using webRTC, so there is no plug-in or download required to run Teams in a web browser. The browser must be configured to allow third-party cookies. 
+The web client [https://teams.microsoft.com](https://go.microsoft.com/fwlink/?linkid=855753)) is a full, functional client that can be used from a variety of browsers. The web client supports Calling and Meetings by using webRTC, so there is no plug-in or download required to run Teams in a web browser. The browser must be configured to allow third-party cookies. 
 
 [!INCLUDE [browser-support](includes/browser-support.md)]
 
